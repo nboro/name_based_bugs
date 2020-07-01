@@ -16,3 +16,10 @@ In the folder **5_rq3_identify_name_method_inconsistency** I answer the 3rd rese
 In the folder **rq1 - topic modeling task names**  I answer the 1st research question of my research by performing topic modeling on the Ansible task names in order to identify common Ansible insfrastructure usages.
 
 In the folder **rq2 - topic modeling commit messsages**  I answer the 2nd research question of my research by performing topic modeling on the extracted bug-related commit messages in order to identify common bug issues in Ansible.
+
+All used datasets are located within the corresponding folders. Datasets are consideredd all files with extension ***.pkl***. For rq2 the dataset is within the file ***commits_from_merged_repos.xlsx***. 
+
+For the raw repository data contact [nborovits@gmail.com](nborovits@gmail.com).
+
+
+
